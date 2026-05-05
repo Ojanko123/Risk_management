@@ -209,5 +209,5 @@ python risk_management.py
 
 
 **Oresti Janko**
-BSc Statistics and Insurance Science — University of Piraeus
+BSc Statistics and Insurance Science - University of Piraeus
 Focus: Quantitative risk management, statistical modelling, Python
